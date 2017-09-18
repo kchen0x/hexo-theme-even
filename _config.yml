@@ -19,9 +19,9 @@ rss: default
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
+  Tags: /tags
   # Categories: /categories
-  # About: /about
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -30,8 +30,8 @@ menu:
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
   color: Default
-  toc: false
-  fancybox: false
+  toc: true
+  fancybox: true
 
 copyright:
   enable: true
@@ -48,15 +48,15 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: kchen2991@gmail.com
   stack-overflow:
   twitter:
-  facebook:
+  facebook: https://www.facebook.com/quentin.chenkun
   linkedin:
   google:
-  github:
+  github: https://github.com/quentin-chen
   weibo:
-  zhihu:
+  zhihu: https://www.zhihu.com/people/chen-kun-92-07/activities
   douban:
   pocket:
   tumblr:
@@ -82,7 +82,7 @@ google_analytics:
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: kchen
 
 #Changyan
 changyan:
