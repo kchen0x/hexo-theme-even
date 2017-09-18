@@ -23,5 +23,7 @@
       <i class="iconfont icon-heart"></i>
     </span>
     <span class="author">{{ config.author }}</span>
+    <span class="division">|</span>
+    <span> 京ICP备17053524号</span>
   </span>
 </div>
