@@ -18,10 +18,10 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
-  # Tags: /tags
+  Archives: /archives/
+  Tags: /tags
   # Categories: /categories
-  # About: /about
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -54,15 +54,15 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: kchen2991@gmail.com
   stack-overflow:
   twitter:
-  facebook:
+  facebook: https://www.facebook.com/quentin.chenkun
   linkedin:
   google:
-  github: https://github.com/ahonn
+  github: https://github.com/kchen0x
   weibo:
-  zhihu:
+  zhihu: https://www.zhihu.com/people/chen-kun-92-07/activities
   douban:
   pocket:
   tumblr:
@@ -88,7 +88,7 @@ google_analytics:
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: kchen
 
 #Changyan
 changyan:
