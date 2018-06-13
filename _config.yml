@@ -26,12 +26,15 @@ menu:
 # ===========================================
 # Theme Settings
 # ===========================================
-# theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-theme:
-  color: Default
-  toc: true
-  fancybox: true
+color: Default
+
+toc: true
+
+# jQuery fancybox
+fancybox: true
+
+pjax: true
 
 copyright:
   enable: true
@@ -54,7 +57,7 @@ social:
   facebook: https://www.facebook.com/quentin.chenkun
   linkedin:
   google:
-  github: https://github.com/quentin-chen
+  github: https://github.com/kchen0x
   weibo:
   zhihu: https://www.zhihu.com/people/chen-kun-92-07/activities
   douban:
@@ -89,7 +92,10 @@ changyan:
   appid:
   appkey:
 
+#LiveRe
+livere_datauid:
+
 # ===========================================
 # Version
 # ===========================================
-version: 2.6.0
+version: 2.9.0
