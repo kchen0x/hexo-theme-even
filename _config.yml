@@ -71,8 +71,8 @@ social:
 
 # LeanCloud
 leancloud:
-  app_id:
-  app_key:
+  app_id: E6WKI3ciNvoyQWfb6qdM50rJ-gzGzoHsz
+  app_key: wVKlG50ntVertqEOw4aQEVwI
 
 # Baidu Analytics
 baidu_analytics:
@@ -80,7 +80,7 @@ baidu_analytics:
 baidu_verification:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-41464607-2
 # Google Verification
 google_verification:
 
