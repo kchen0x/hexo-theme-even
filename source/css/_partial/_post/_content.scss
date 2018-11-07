@@ -8,10 +8,6 @@
       font-weight: 400;
       font-family: $global-serif-font-family;
     }
-    h#{$i}::before {
-      content: "§";
-      font-family: $global-font-family;
-    }
   }
 
   .headerlink {
